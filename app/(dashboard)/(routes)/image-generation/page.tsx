@@ -170,6 +170,7 @@ const ImageGeneration = () => {
               <div className="absolute animate-spin rounded-full h-24 w-24 border-t-4 border-b-4 border-[#111827]"></div>
               <Image
                 src="/avatar-thinking.svg"
+                fill
                 className="rounded-full h-20 w-16"
                 alt=""
               />
