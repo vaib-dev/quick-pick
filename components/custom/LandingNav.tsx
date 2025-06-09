@@ -25,8 +25,8 @@ const LandingNav = () => {
             fill="none"
             stroke="currentColor"
             strokeWidth="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             className="lucide lucide-wind"
           >
             <path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2" />
